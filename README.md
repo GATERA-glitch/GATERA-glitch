@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-<!-- New lightweight animated banner -->
+<!-- Snake animation as GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Animated banner" height="60"/>
+  <img src="https://media.giphy.com/media/3o7aD6vbfG2X48mQ7C/giphy.gif" alt="Animated snake" height="80"/>
 </div>
