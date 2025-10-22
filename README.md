@@ -15,10 +15,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun GIF" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
@@ -60,6 +56,9 @@
 
 ###
 
-<br clear="both" />
+<br clear="both">
 
-<img src="https://raw.githubusercontent.com/GATERA-glitch/GATERA-glitch/main/snake.svg" alt="Snake animation" />
+<!-- New lightweight animated banner -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Animated banner" height="60"/>
+</div>
