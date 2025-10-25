@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Creating bugs since 2023<br>
+✨ Creating bugs since 2024<br>
 📚 I'm currently learning: JavaScript & Modern Frontend Development<br>
 🎯 Goals: Become a top Full-Stack developer and build impactful software<br>
 🎲 Fun fact: I also breed Boerboel dogs 🐶💪
