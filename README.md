@@ -1,5 +1,5 @@
 <h1 align="center">Gatera Prince Marvin 👋</h1>
-<p align="center">Responsive Web Developer | Full-Stack Developer in Progress | Boerboel Dog Enthusiast 🐶</p>
+<p align="center">Responsive Web Developer | Front-End-Web-Developer in Progress | Boerboel Dog Enthusiast 🐶</p>
 
 ---
 
