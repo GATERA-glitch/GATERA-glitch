@@ -32,8 +32,8 @@
 
 ## GitHub Stats
 
-![Gatera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Gatera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GATERA-glitch&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GATERA-glitch&layout=compact&theme=radical)
 
 ---
 
