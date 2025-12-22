@@ -53,7 +53,7 @@
   <a href="https://discord.gg/YMgBrNnq">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
   </a>
-    <a href="https://www.figma.com/@GateraPrinceMarvin">
+    <a href="https://www.figma.com/@gateraprincemar">
     <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&style=for-the-badge" height="35" alt="Figma" />
       </a>
   <a href="mailto:gateraprincemarvin@gmail.com">
